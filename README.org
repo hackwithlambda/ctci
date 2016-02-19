@@ -1,0 +1,4 @@
+#+TITLE: Cracking The Coding Interview Solutions
+
+- OCaml by [[http://bryangarza.github.io/][Bryan]]
+- Scala by [[http://themattchan.com/][Matt]]
